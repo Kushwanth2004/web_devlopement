@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    border-color: #dddddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #dddddd;
+}
+
+td {
+    font-weight: normal;
+    font-size: medium;
+    color: navy;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
